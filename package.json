@@ -1,6 +1,6 @@
 {
   "name": "@soodam.re/env-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library used by Soodam.re projects to manipulate .env files",
   "main": "src/index.js",
   "repository": {
