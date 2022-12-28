@@ -2,7 +2,7 @@
   "name": "@soodam/env-utils",
   "version": "1.0.0",
   "description": "Library used by Soodam.re projects to manipulate .env files",
-  "main": "dist/index.js",
+  "main": "src/index.js",
   "repository": "https://github.com/Tsodinq/env-utils",
   "author": "Soodam.re and contributors",
   "license": "MIT",
